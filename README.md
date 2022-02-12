@@ -1,6 +1,6 @@
 # flutter_grep_clone
 
-A new Flutter project.
+[![Thumbnail.png](https://i.postimg.cc/ZqWRg2nY/Thumbnail.png)](https://postimg.cc/Z9h4vf6X)
 
 ## Getting Started
 
