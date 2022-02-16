@@ -2,7 +2,9 @@
 
 [![Thumbnail.png](https://i.postimg.cc/ZqWRg2nY/Thumbnail.png)](https://postimg.cc/Z9h4vf6X)
 
-[![Screenshot-1644973021.png](https://i.postimg.cc/1tTMC0rt/Screenshot-1644973021.png)](https://postimg.cc/gXVvrZ5F) [![Screenshot-1644973029.png](https://i.postimg.cc/9Qpb5HYs/Screenshot-1644973029.png)](https://postimg.cc/HrrXXKKt)
+| Onboarding Page     | Main Page      |  
+| ------------- | -------------    | 
+| [![Screenshot-1644973021.png](https://i.postimg.cc/1tTMC0rt/Screenshot-1644973021.png)](https://postimg.cc/gXVvrZ5F) |   [![Screenshot-1644973029.png](https://i.postimg.cc/9Qpb5HYs/Screenshot-1644973029.png)](https://postimg.cc/HrrXXKKt) |
 
 ## Getting Started
 
