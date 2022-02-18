@@ -6,6 +6,9 @@
 | ------------- | -------------    | 
 | [![Screenshot-1644973021.png](https://i.postimg.cc/1tTMC0rt/Screenshot-1644973021.png)](https://postimg.cc/gXVvrZ5F) |   [![Screenshot-1644973029.png](https://i.postimg.cc/9Qpb5HYs/Screenshot-1644973029.png)](https://postimg.cc/HrrXXKKt) |
 
+
+Font use in this App Concept : [Rowdies](https://fonts.google.com/specimen/Rowdies?preview.size=38&query=rowdies) & [Source Serif](https://fonts.google.com/specimen/Source+Serif+Pro?preview.size=38&query=source+serif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
